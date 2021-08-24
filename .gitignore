@@ -1,0 +1,9 @@
+#hides .db and .log types of files
+*.db
+*.log
+
+#hides folders with specified names
+target/
+bin/
+obj/
+.vs/
